@@ -1,6 +1,6 @@
 -- DROP DATABASE university2;
 
--- CREATE DATABASE test2;
+CREATE DATABASE test2;
 /* 
 -- ## create a table
 create table "tablename" ()
